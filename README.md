@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdul_Rehman</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman-pro-hash&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman-pro-hash" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrehman-org&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrehman-org" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrehman-pro-hash" alt="abdulrehman-pro-hash" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdulrehman-org" alt="abdulrehman-org" /></a> </p>
 
 - 📫 How to reach me **itsrehman.pro@gmail.com**
 
